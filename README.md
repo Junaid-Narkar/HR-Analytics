@@ -58,3 +58,18 @@ The analysis covers:
 ## How to Run
 
 1. Clone the repo:
+
+2. Install dependencies:
+pip install pandas numpy matplotlib seaborn openpyxl jupyter
+3. Place `data123.xlsx` in the same folder as the notebook.
+4. Open the notebook:
+
+
+## Author
+
+**Junaid Narkar**
+Data Analyst | SQL · Power BI · Python
+Kuwait
+
+- LinkedIn: [linkedin.com/in/junaidnarkar-analyst](https://www.linkedin.com/in/junaidnarkar-analyst)
+- GitHub: [github.com/Junaid-Narkar](https://github.com/Junaid-Narkar)
